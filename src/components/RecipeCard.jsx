@@ -1,3 +1,4 @@
+import React from 'react'
 const STAGE_LABELS = {
   0: 'Бонус',
   1: 'Стадия 1',
