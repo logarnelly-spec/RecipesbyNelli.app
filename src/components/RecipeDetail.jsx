@@ -1,4 +1,4 @@
-import { useEffect } from 'react'
+import React, { useEffect } from 'react'
 
 const STAGE_LABELS = {
   0: 'Бонус',
